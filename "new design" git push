@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chaman - Panipat</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family: 'Segoe UI', Arial}
+body{background: linear-gradient(135deg, #667eea, #764ba2); min-height:100vh; color:white;}
+.header{padding:20px; display:flex; justify-content:space-between; background: rgba(0,0,0,0.2);}
+.hero{text-align:center; padding:80px 20px;}
+.hero h1{font-size:48px; margin-bottom:15px;}
+.hero p{font-size:20px; opacity:0.9;}
+.card{background:white; color:#333; max-width:600px; margin:30px auto; padding:30px; border-radius:20px; box-shadow:0 10px 30px rgba(0,0,0,0.3);}
+.btn{background:#667eea; color:white; padding:15px 30px; border:none; border-radius:50px; font-size:18px; margin-top:20px; cursor:pointer;}
+.btn:active{transform:scale(0.95)}
+</style>
+</head>
+<body>
+<div class="header">
+<h3>MY WEBSITE</h3>
+<span>Panipat, Haryana</span>
+</div>
+
+<div class="hero">
+<h1>Namaste! 🙏</h1>
+<h1>Main Chaman Hu</h1>
+<p>Ye Meri Pehli Website Hai Jo Live Hone Wali Hai</p>
+<button class="btn" onclick="alert('Thanks Bhai! Website Dekhne Ke Liye ❤️')">Click Me ❤️</button>
+</div>
+
+<div class="card">
+<h2>About Me</h2><br>
+<p>👋 Hello! I am from Panipat, Haryana.</p><br>
+<p>🚀 I am learning how to make websites.</p><br>
+<p>📍 This website is made on GitHub.</p>
+</div>
+
+</body>
+</html>
