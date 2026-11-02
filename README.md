@@ -9,7 +9,7 @@
 
 📊 GitHub Stats:
 - 100 Days on GitHub
-- 7+ Contributions
+- 100+ Contributions
 - 1 Live Project
 
 📫 Contact: DM on Instagram
