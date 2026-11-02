@@ -8,7 +8,7 @@
 🔗 **Live Website:** https://chamannimesh052-beep.github.io/My-first-website-/
 
 📊 GitHub Stats:
-- 4 Days on GitHub
+- 100 Days on GitHub
 - 7+ Contributions
 - 1 Live Project
 
